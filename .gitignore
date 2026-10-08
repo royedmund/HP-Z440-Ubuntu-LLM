@@ -1,0 +1,14 @@
+*.log
+*.bak
+*.bak.*
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*-secret
+.open-webui-secret
+models/
+data/
